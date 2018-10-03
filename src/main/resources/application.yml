@@ -1,0 +1,8 @@
+firstName: sravan
+lastName: kumar
+age: 28
+contactDetails:
+  - type: mobile
+    number: 1234567890
+  - type: landline
+    number: 9876543210
